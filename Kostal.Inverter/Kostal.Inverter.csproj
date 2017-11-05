@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>Kostal.Inverter</AssemblyName>
+    <RootNamespace>Kostal.Inverter</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Kostal.Inverter.Contract\Kostal.Inverter.Contract.csproj" />
+  </ItemGroup>
+
+</Project>

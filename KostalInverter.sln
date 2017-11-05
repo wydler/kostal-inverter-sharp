@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kostal.Inverter", "Kostal.Inverter\Kostal.Inverter.csproj", "{904D160D-F3D3-4B2B-BE96-7F1F4D2AC778}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kostal.Inverter.Tests", "Kostal.Inverter.Tests\Kostal.Inverter.Tests.csproj", "{95684A71-6737-40A9-ABC2-D37064D5F27E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kostal.Inverter.Contract", "Kostal.Inverter.Contract\Kostal.Inverter.Contract.csproj", "{D805E610-90AE-48E3-9AAA-91792576D387}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{904D160D-F3D3-4B2B-BE96-7F1F4D2AC778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904D160D-F3D3-4B2B-BE96-7F1F4D2AC778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904D160D-F3D3-4B2B-BE96-7F1F4D2AC778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904D160D-F3D3-4B2B-BE96-7F1F4D2AC778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95684A71-6737-40A9-ABC2-D37064D5F27E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95684A71-6737-40A9-ABC2-D37064D5F27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95684A71-6737-40A9-ABC2-D37064D5F27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95684A71-6737-40A9-ABC2-D37064D5F27E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D805E610-90AE-48E3-9AAA-91792576D387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D805E610-90AE-48E3-9AAA-91792576D387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D805E610-90AE-48E3-9AAA-91792576D387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D805E610-90AE-48E3-9AAA-91792576D387}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B75E041-E58B-4388-BA1F-33D58FB61815}
+	EndGlobalSection
+EndGlobal
